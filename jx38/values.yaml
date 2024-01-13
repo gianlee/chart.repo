@@ -62,7 +62,7 @@ canary:
   gatewayLabels: {}
 
 service:
-  name: jx35
+  name: jx38
   type: ClusterIP
   externalPort: 80
   internalPort: 8085

@@ -1,13 +1,13 @@
 apiVersion: v1
 entries:
-  jx35:
+  jx38:
   - apiVersion: v1
-    created: "2024-01-05T21:38:23.29258255+01:00"
+    created: "2024-01-13T15:12:44.449554047+01:00"
     description: A Helm chart for Kubernetes
-    digest: dbe0b75cae58faa118c30eea4fe9509c07ba36c37c017d1c154d21408e69e110
+    digest: 9b9cc40a9b2da4c460528a5a950b546d1a32bd14a5ece87cf2c9983b883a0c58
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
-    name: jx35
+    name: jx38
     urls:
-    - https://github.com/gianlee/chart.repo.git/jx35-0.0.7.tgz
-    version: 0.0.7
-generated: "2024-01-05T21:38:23.291075131+01:00"
+    - https://gianlee.github.io/chart.repo/jx38-0.0.3.tgz
+    version: 0.0.3
+generated: "2024-01-13T15:12:44.448698706+01:00"
